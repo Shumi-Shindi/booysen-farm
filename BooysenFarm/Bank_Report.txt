@@ -1,0 +1,26 @@
+==========================================
+      GREEN PASTURES - MONTHLY REPORT     
+==========================================
+Generated on: Mon May 04 14:15:06 CAT 2026
+Owner: Mr. Van Booysen
+
+TOTAL ANIMALS CURRENTLY ON FARM: 0
+------------------------------------------
+LIVESTOCK STATUS SUMMARY:
+- Total Healthy: 0
+- Total Sick: 0
+- Total Sold: 0
+- Total Died: 0
+- Total Lost: 0
+- Total Stolen: 0
+
+STOREHOUSE INVENTORY STATUS:
+------------------------------------------
+- Cattle Feed: 100 units
+- Sheep Dip: 30 units
+- Tools: 15 units
+- Vaccine A: 50 units
+
+==========================================
+Verified by: __________________________
+             Farm Management System

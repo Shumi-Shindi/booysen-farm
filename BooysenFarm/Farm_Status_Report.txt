@@ -1,0 +1,17 @@
+BOOYSEN FARM - OFFICIAL STATUS REPORT
+======================================
+Total Livestock on Farm: 0
+
+LOSS & STATUS SUMMARY:
+- Total Died: 0
+- Total Lost: 0
+- Total Stolen: 0
+- Total Healthy: 0
+- Total Sick: 0
+- Total Sold: 0
+
+INVENTORY LEVELS:
+- Cattle Feed: 100
+- Sheep Dip: 30
+- Tools: 15
+- Vaccine A: 50
